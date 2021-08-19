@@ -1,2 +1,2 @@
 # res-project
-This is an app in Go
+This is a sample page rendering static files with Golang
